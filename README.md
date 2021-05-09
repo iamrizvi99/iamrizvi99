@@ -1,8 +1,5 @@
 ### Hi there, I'm Tamseel Husain 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Student, Designer, Developer, and Teacher!!
 
 - 🔭 I just launched my first website: [Weboject!][website]!
@@ -13,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD?si=rKahV344RWmhGCG7h9KbFg&utm_source=whatsapp&dl_branch=1)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="iamrizvi99 Spotify Playing" width="350" />](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD?si=rKahV344RWmhGCG7h9KbFg&utm_source=whatsapp&dl_branch=1)
 
 ### Connect with me:
 
