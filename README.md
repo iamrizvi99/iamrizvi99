@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=iamrizvi99&fontSize=50)
 ### Hi there, I'm Tamseel Husain 👋
 
 ## I'm a Student, Designer, Developer, and Teacher!!
