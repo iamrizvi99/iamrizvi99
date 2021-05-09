@@ -4,7 +4,7 @@
 ## I'm a Student, Designer, Developer, and Teacher!!
 
 - 🔭 I just launched my first website: [Weboject!][website]!
-- 🌱 I’m currently working on my UX/UI designing skills and learning everything 🤣
+- 🌱 I’m currently learning everything and working on my UX/UI designing skills
 - 👯 I’m looking to collaborate with other designers to learn more
 - 🥅 2021 Goals: Contribute more to Open Source project
 - ⚡ Fun fact: I love Cooking, Photography and Traveling 
