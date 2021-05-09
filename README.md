@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=iamrizvi99&fontSize=50)
+---
 ### Hi there, I'm Tamseel Husain 👋
 
 ## I'm a Student, Designer, Developer, and Teacher!!
@@ -43,7 +43,9 @@
 <br />
 <br />
 
----
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=&fontSize=50)
+
+
 
 [website]: https://weboject.ezyro.com
 [instagram]: https://instagram.com/iamrizvi99?igshid=ua21tdtewr4y
