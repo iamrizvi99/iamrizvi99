@@ -6,7 +6,7 @@
 - 🔭 I just launched my first website: [Weboject!][website]!
 - 🌱 I’m currently learning everything and working on my UX/UI designing skills
 - 👯 I’m looking to collaborate with other designers to learn more
-- 🥅 2021 Goals: Contribute more to Open Source project
+- 🥅 2022 Goals: Contribute more to Open Source project
 - ⚡ Fun fact: I love Cooking, Photography and Traveling 
 
 ### Spotify Playing 🎧
